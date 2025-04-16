@@ -1,6 +1,6 @@
 # Transformer-Amharic-Bot-New-Colab
 
-Fine-tuning `rasyosef/gpt2-small-amharic` for Amharic text generation using Google Colab and Hugging Face Transformers. Includes a command-line test chatbot and setup instructions for a local Streamlit app.
+This repository details the fine-tuning of `rasyosef/gpt2-small-amharic` for improved Amharic text generation using Google Colab and Hugging Face Trainer. The notebook covers loading a custom corpus (from Google Drive), data cleaning, tokenization, training, and evaluation. Includes a command-line test chatbot within the notebook and setup instructions for a local Streamlit application.
 
 **✨ Live Demo:** [**https://abdullah75f-transformer-amharic-bot-new-cola-chatbot-app-8obne8.streamlit.app/**](https://abdullah75f-transformer-amharic-bot-new-cola-chatbot-app-8obne8.streamlit.app/) ✨
 
