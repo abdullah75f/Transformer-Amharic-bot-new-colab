@@ -1,0 +1,7 @@
+streamlit
+torch
+transformers
+sentencepiece
+accelerate
+# Add numpy if you encounter numpy-related errors later
+# numpy
