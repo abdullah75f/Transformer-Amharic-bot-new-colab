@@ -19,13 +19,13 @@ Fine-tuning `rasyosef/gpt2-small-amharic` for Amharic text generation using Goog
 ## Screenshots
 
 ### Chatbot User Interface (Streamlit)
-![Chatbot UI](image-1.png)
+![Chatbot UI](./demo/image-1.png)
 
 ### Model Explanations (Streamlit Sidebar)
-![Sidebar Notes](image-2.png)
+![Sidebar Notes](./demo/image-2.png)
 
 ### Model Internals Example (Streamlit Calculations)
-![Model Calculations](image-3.png)
+![Model Calculations](./demo/image-3.png)
 
 ## Setup and Usage
 
